@@ -1,0 +1,7 @@
+my_miniapp_project/
+├── app.py
+├── docker-compose.yml
+├── Dockerfile
+├── requirements.txt
+└── webapp/
+    └── index.html
